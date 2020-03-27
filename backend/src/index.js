@@ -5,7 +5,7 @@ const routes = require('./routes'); // aqui pegamos a variável routes, diferent
 
 const app = express();
 
-app.use(cors());
+app.use(cors()); // o cors é a biblioteca de permissão de programas externos acessando nosso app
 app.use(express.json()); // ele interpreta o json
 app.use(routes);
 

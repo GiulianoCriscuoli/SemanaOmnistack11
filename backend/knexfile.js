@@ -8,7 +8,7 @@ module.exports = {
       filename: './src/database/db.sqlite'
     },
     migrations: {
-      directory: './src/database/migrations' //  onde ficará o ocntrole de versionamento do bd, 
+      directory: './src/database/migrations' //  onde ficará o controle de versionamento do bd, 
       //veremos todas as alterações
 
     },
