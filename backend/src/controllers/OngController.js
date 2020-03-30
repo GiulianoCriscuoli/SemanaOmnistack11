@@ -1,5 +1,5 @@
 
-const crypto = require('crypto'); // usado para criptografar senhas
+const generateUniqueId = require('../utils/generateUniqueId'); // usado para criptografar senhas
 const connection = require('../database/connection');
 
 
@@ -18,8 +18,7 @@ module.exports = {
 
         const {name, email, whatsapp, city, uf} = request.body; // pega as informações do body no insominia
 
-        const id = crypto.randomBytes(4).toString('HEX'); // cria um id criptografado de 4 bytes hexadecimal
-        // é um pacote do node o crypto, usado para criptografia
+        const id = generateUniqueId();
     
         await connection('ongs').insert({ // será inserido esses valores no cadastro
             
