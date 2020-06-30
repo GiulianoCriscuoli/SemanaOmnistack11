@@ -17,7 +17,7 @@ _Este projeto terá melhorias e mudanças no layout em breve._
 2. React.JS
 3. React Native
 
-#Executando o projeto
+# Executando o projeto
 
 Back-end
 1 - npm install para baixar todas as dependênciass.
