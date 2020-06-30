@@ -1,6 +1,6 @@
 
 
-<img src="MDIGITAL/bethehero_logo.png/>
+
 
 # Projeto: Be The Hero
 
@@ -13,9 +13,9 @@ _Este projeto terá melhorias e mudanças no layout em breve._
 
 # Tecnologias Utilizadas
 
-1.Node.JS
-2.React.JS
-3.React Native
+1. Node.JS
+2. React.JS
+3. React Native
 
 #Executando o projeto
 
