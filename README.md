@@ -4,7 +4,7 @@
 
 # Projeto: Be The Hero
 
- ![](MDIGITAL/bethehero.gif)
+ ![](C:/xampp/htdocs/semana11/aulas/frontend/public/bethehero.gif)
 
 # Descrição
 
