@@ -2,16 +2,16 @@
 
 <img src="MDIGITAL/bethehero_logo.png/>
 
-#Projeto: Be The Hero
+# Projeto: Be The Hero
 
  ![](MDIGITAL/bethehero.gif)
 
-#Descrição
+# Descrição
 
 Be The Hero é um projeto social, produzido na semana da Rocketseat, para cadastros de ongs. O objetivo do projeto é de ajudar pessoas que necessitam de recursos.
 _Este projeto terá melhorias e mudanças no layout em breve._
 
-#Tecnologias Utilizadas
+# Tecnologias Utilizadas
 
 1.Node.JS
 2.React.JS
@@ -31,6 +31,6 @@ Front-end Web
 
 2 - npm start para rodar o servidor.
 
-#Licença
+# Licença
 
 :book: Licença MIT. Veja o arquivo LICENSE.
