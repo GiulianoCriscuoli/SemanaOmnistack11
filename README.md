@@ -9,7 +9,7 @@
 # Descrição
 
 Be The Hero é um projeto social, produzido na semana da Rocketseat, para cadastros de ongs. O objetivo do projeto é de ajudar pessoas que necessitam de recursos.
-_Este projeto terá melhorias e mudanças no layout em breve._
+
 
 # Tecnologias Utilizadas
 
