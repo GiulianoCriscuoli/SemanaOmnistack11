@@ -20,7 +20,7 @@ Be The Hero é um projeto social, produzido na semana da Rocketseat, para cadast
 # Executando o projeto
 
 Back-end
-1 - npm install para baixar todas as dependênciass.
+1 - npm install para baixar todas as dependências.
 
 2 - npx knex migrate:latest para executar as migrations e criar as tabelas do banco de dados.
 
